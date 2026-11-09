@@ -1,0 +1,40 @@
+id,project,reported_ntd_100m,scope
+1,KYEC East Zhonghua plants 6 and 7,150,Equipment component
+2,Porite Zhunan plant 7,20,Expansion
+3,TiSPACE rocket park,50,Planned project
+4,TiSPACE Zhunan plant,20,Expansion
+5,Hongmao Environmental Zhunan plant,1.5,Expansion
+6,Edwards Zhunan plant,50,Expansion
+7,PSMC smart production line,600,Legacy project recorded before P5 sale
+8,Xinhao Zhunan plant,1.1,Expansion
+9,United Global Zhunan plant,20,Expansion
+10,CGPC Toufen vinyl chloride storage,10,Storage
+11,Shinming Toufen plant,2.9,Excludes land
+12,Haisheng offshore wind farm,800,Offshore Tongxiao
+13,Solar PV equipment,44.7146,Reported through November 2025
+14,Zhaojie Technology facility,12,Two phases
+15,Yaqide Technology facility,6,Facility
+16,KYEC Tongluo equipment and fourth building,215,Equipment and facility
+17,Anda recycling line,0.8,Production line
+18,MediaTek,87.81,Three phases
+19,Visco Vision Zhunan facility,50,Facility
+20,Shunli Metal facility,10,Facility
+21,Changting Industrial facility,3.5,Includes land and equipment
+22,Jingcheng Toufen third facility,20,Facility
+23,Ruixin Electronics facility,2,Facility
+24,Global Unichip Zhunan facility,4.2,Facility
+25,Radiant Opto Electronics science park branch,50,Branch
+26,UIS wafer reclaim project,7,Company project
+27,Jinjing silica sand project,15,Company project
+28,Yongjun Technology project,4,Company project
+29,SINBON Tongluo science park,32,Phased
+30,Novatek,38.66,Two phases
+31,Fenzi Neo Technology,2,Company project
+32,Qunchao Display science park branch,1.5,Branch
+33,Heda Materials,1,Company project
+34,Yihe,10,Company project
+35,Hermes Epitek Zhunan Guangyuan plant,17,Facility
+36,Phison Electronics,22,Estimated phases from 2027
+37,Realtek,31,Phased
+38,CGPC Toufen polymerization equipment,45,Expected
+39,Dahong Cement Products Tongluo,4.5,Facility acquisition and handover in progress at snapshot

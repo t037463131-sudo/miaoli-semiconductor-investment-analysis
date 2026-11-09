@@ -1,0 +1,46 @@
+source,date,geography,series,metric,value,unit,status,note
+C1,2025-12-30,Miaoli,Investment attraction,Reported monitored project total,246.2,NTD billion,administrative pipeline,39 projects across industries
+C1,2025-12-30,Miaoli,Investment attraction,Monitored projects,39,projects,administrative pipeline,Snapshot
+C2,2026-05-18,Miaoli,Investment attraction,Reported attraction amount,485.5,NTD billion,administrative pipeline,County report
+C3,2026-08-19,Miaoli,Investment attraction,Reported attraction amount,497.9,NTD billion,administrative pipeline,Committee meeting
+C4,2026-10-02,Miaoli,Investment attraction,Reported attraction amount exceeded,500,NTD billion,administrative lower bound,County report refers to August end
+C2,2026-05-18,Tongluo,P5,County reported phased investment plan,231.7,NTD billion,future plan,Accounting overlap with attraction total unverified
+M1,2026-01-17,Tongluo,P5,Exclusive letter of intent,1.8,USD billion,announcement,Proposed consideration
+M2,2026-03-16,Tongluo,P5,Acquisition and ownership transfer,1.8,USD billion,closed,March 15 US date per 10-Q and March 16 Taiwan announcement
+M2,2026-03-16,Tongluo,P5,Existing cleanroom,300000,square feet,existing asset,300 mm facility
+M4,2026-06-24,Tongluo,P5,Second cleanroom construction,,milestone,started,Company confirmed by fiscal Q3 call
+M5,2026-09-30,Tongluo,P5,Meaningful shipments expected mid calendar 2027,,milestone,future company guidance,Reaffirmed in Q4 remarks
+P1,2024-09-30,Taoyuan Hsinchu Miaoli,Policy,Executive Yuan ratification,,milestone,approved,Four strategies
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Context,Regional output,9800,NTD billion,regional baseline,23 percent of national output per NDC
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Context,Regional employment,1930000,people,regional baseline,16 percent of national employment per NDC
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Innovation,AI adoption assistance exceeded,1400,enterprise instances,reported activity,Instances can include repeat firms
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Innovation,Auto AI firms assisted,6,firms,reported activity,Cost reduction support
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Innovation,Auto AI expected incremental output,0.772,NTD billion,expected effect,Agency estimate
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Innovation,Auto AI facilitated investment,0.04279,NTD billion,reported facilitated investment,Definition differs from expenditure
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Startups,Technology transfer,0.115,NTD billion,reported output,Commercialization platform
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Startups,Industry academia cooperation,1.165,NTD billion,reported output,Commercialization platform
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Startups,New startups from platform,4,firms,reported output,Commercialization platform
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Startups,National Development Fund portfolio firms,208,firms,reported cumulative,Through March 2026
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Startups,National Development Fund investment,5.271,NTD billion,reported cumulative,Through March 2026
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Talent,Priority field talent reported,5410,people,reported output,Aggregate includes approved class places
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Talent,International talent services exceeded,5600,service instances,reported activity,Visits may repeat
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Parks,Industrial parks in development or planning exceeded,20,sites,planning and development,Portfolio
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Parks,Planned or applied area exceeded,1000,ha,planned area,Portfolio
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Parks,Industrial densification investment,6.491,NTD billion,reported investment,Programme figure
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Parks,Industrial densification potential jobs,2485,jobs,expected effect,Approximate
+P2,2026-04-16,Taoyuan Hsinchu Miaoli,Governance,Coordination meetings,6,meetings,reported activity,As of the committee briefing
+P3,2024-10-25,Zhunan and Toufen,Parks,Proposed science park expansion,150,ha,planning,Executive Yuan site review
+C4,2026-10-02,Zhunan and Toufen,Parks,Kedong and Toufen interchange planning,,milestone,planning,County status report
+P4,2026-08-10,Zhunan and Toufen,Transport,Expressway widening urban plan amendment,,milestone,effective,Regulatory milestone
+P2,2026-04-16,Yangmei to Toufen,Transport,Expressway widening length,36,km,project scope,Approximate
+P2,2026-04-16,Yangmei to Toufen,Transport,Traffic diversion projection,30,percent,expected effect,See Freeway Bureau scope
+P2,2026-04-16,Taoyuan to Hsinchu,Water,Backup pipeline design capacity,225000,tonnes per day,completed in 2024,Maximum design support
+P2,2026-04-16,Miaoli,Water,Liyutan northbound project capacity,120000,tonnes per day,design capacity,WRA page lists construction
+P2,2026-04-16,Hsinchu,Water,Desalination plant future capacity,100000,tonnes per day,future capacity,Programme figure
+P2,2026-04-16,Taoyuan,Power,Datan three units combined nameplate,3160,MW,in commercial operation,Reported April status
+P5,2026-07-31,Shimen to Hsinchu,Water,Interconnection construction progress,61.6,percent,under construction,As of end July
+P5,2026-07-31,Shimen to Hsinchu,Water,Future backup raw water capacity,300000,tonnes per day,design capacity,June 2028 delivery target in update
+P9,2026-09-17,Longtan Taoyuan,Parks,NDC cleared Longtan expansion draft,104,ha,review passed,Referred for Executive Yuan approval
+P9,2026-09-17,Longtan Taoyuan,Parks,Longtan expansion potential jobs,4500,jobs,expected effect,Longtan only
+P9,2026-09-17,Longtan Taoyuan,Parks,Longtan expansion potential annual output,550,NTD billion,expected effect,Longtan only
+P9,2026-09-17,Central Taiwan,Water,Daan Dajia interconnection commenced water delivery,,milestone,commissioned,Separate from Liyutan northbound project

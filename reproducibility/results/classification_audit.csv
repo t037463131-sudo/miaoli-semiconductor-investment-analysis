@@ -1,0 +1,14 @@
+﻿market,target,segment,loaded,positive_price,eligible_main
+a,土地,,10,0,0
+a,土地,Land only,13493,13493,9420
+a,建物,,100,0,0
+a,房地(土地+建物),,1694,0,0
+a,房地(土地+建物),Existing residential,7150,7150,6246
+a,房地(土地+建物)+車位,,4665,0,0
+a,房地(土地+建物)+車位,Existing residential,1591,1591,1528
+a,車位,,118,0,0
+b,房地(土地+建物),,67,0,0
+b,房地(土地+建物),Presale residential,1585,1585,1567
+b,房地(土地+建物)+車位,,1856,0,0
+b,房地(土地+建物)+車位,Presale residential,5299,5299,5108
+b,車位,,1,0,0

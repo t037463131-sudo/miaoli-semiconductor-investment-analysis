@@ -1,0 +1,7 @@
+National Land Surveying and Mapping Center, Taiwan MOI
+https://data.gov.tw/dataset/7441
+Original archive member: TOWN_MOI_1140318.shp
+Original ZIP SHA-256: c5dc6c0f9a8cc1aad6758a0a6fb81b203718b37f42c5aa8e684262ca24a7d9dd
+CRS: GCS_TWD97[2020], as supplied
+Government Open Data License v1.0: https://data.gov.tw/license
+Miaoli subset with study labels. Town-level geometries only.
